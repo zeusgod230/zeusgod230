@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://files.catbox.moe/88zaon.jpg" alt="Anshraj Gupta" width="400" style="border-radius:50%;">
+  <img src="https://files.catbox.moe/88zaon.jpg" alt="Anshraj Gupta" width="900" style="border-radius:50%;">
 </p>
 
 <h1 align="center"><b>Hi, I'm Anshraj Gupta (Zeus) ⚡</b></h1>
