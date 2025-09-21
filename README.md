@@ -1,4 +1,4 @@
-<h1 align="center">**Hi , I'm Anshraj Gupta (Zeus)**⚡</h1>
+<h1 align="center"><b>Hi , I'm Anshraj Gupta (Zeus)</b>⚡</h1>
 <h3 align="center">A Computer Science Student & Frontend Developer from India | Exploring AI/ML & Open Source</h3>
 
 - 🔭 I’m currently working on [GetUrMail](https://geturmail.onrender.com)
