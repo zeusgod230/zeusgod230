@@ -1,63 +1,70 @@
-<!-- Profile Picture -->
-<p align="center">
-  <img src="https://files.catbox.moe/88zaon.jpg" alt="Anshraj Gupta" width="900" style="border-radius:50%;">
-</p>
+# Hi — I'm zeusgod230 (Zeus) 👋
 
-<h1 align="center"><b>Hi, I'm Anshraj Gupta (Zeus) ⚡</b></h1>
-<h3 align="center">Computer Science Student | Frontend Developer | Exploring AI/ML & Open Source</h3>
+A results-driven software engineer and open-source contributor focused on building reliable, scalable, and maintainable systems. I enjoy solving hard problems across backend systems, cloud infrastructure, and tooling that help teams move faster.
 
 ---
 
-### 🔭 Currently Working On
-- [GetUrMail](https://geturmail.onrender.com) - Full-stack email automation project
-
-### 🌱 Currently Learning
-- **Next.js, Flask, Scikit-learn**
-
-### 👯 Looking to Collaborate On
-- [SenpaiFocus](https://Senpaifocus.onrender.com) - Productivity & focus tool
-
-### 🤝 Seeking Help With
-- [MikuAssistant](https://mikuassistant.onrender.com) - Advanced AI-powered Telegram assistant
-
-### 💻 Projects Portfolio
-- All projects: [ansh-info.onrender.com](https://ansh-info.onrender.com)
-
-### 💬 Ask Me About
-- **React, Python, Machine Learning**
-
-### 📫 Contact Me
-- Email: **gupta.anshraj0@gmail.com**
-
-### ⚡ Fun Fact
-I’m a 1st-semester tech ninja, building bots, learning AI, and leveling up my Japanese! 🥷💻🇯🇵
+## 🚀 About Me
+- Passionate about delivering production-grade software, automation, and developer experience.
+- Comfortable across the full stack, but my primary focus is backend systems, APIs, and cloud-native architectures.
+- I contribute to open source and enjoy collaborating with other engineers to design elegant solutions.
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://instagram.com/ansh098ty" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="30" height="30"/>
-  </a>
-</p>
+## 🔭 I’m currently working on
+- Designing and implementing scalable backend services.
+- Improving CI/CD and developer tooling for faster, safer delivery.
+- Contributing to open-source projects that improve developer productivity.
 
 ---
 
-### 🛠 Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-</p>
+## 💡 Skills & Technologies
+- Languages: JavaScript / TypeScript, Python, Go, (add others you use)
+- Backend: Node.js, Express, FastAPI, gRPC
+- Cloud & Infra: AWS, Docker, Kubernetes, Terraform
+- Datastores: PostgreSQL, Redis, MongoDB
+- DevOps & CI/CD: GitHub Actions, GitLab CI, ArgoCD
+- Testing & Quality: Jest, Pytest, integration testing, observability (Prometheus/Grafana)
+
+---
+
+## ⭐ Featured Projects
+(Replace the placeholders below with your actual projects and short descriptions)
+
+- [Project Alpha](https://github.com/zeusgod230/project-alpha) — High-performance API for X with autoscaling and observability.
+- [Tool Beta](https://github.com/zeusgod230/tool-beta) — CLI that simplifies Y workflows for developers.
+- [Library Gamma](https://github.com/zeusgod230/library-gamma) — Lightweight library for Z with CI and full test coverage.
+
+---
+
+## 📈 GitHub Stats
+(Optionally include dynamic cards — update the username parameter if you rename your account)
+
+![Zeus' GitHub stats](https://github-readme-stats.vercel.app/api?username=zeusgod230&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeusgod230&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 How to Collaborate
+- Open an issue to discuss ideas, bugs, or feature requests.
+- Prefer small, focused PRs with a clear description and tests where applicable.
+- I welcome constructive code reviews and cross-team collaboration.
+
+---
+
+## 📫 Contact
+- GitHub: [@zeusgod230](https://github.com/zeusgod230)
+- Email: your.email@example.com (replace with preferred contact)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/your-profile) (optional)
+
+---
+
+## 📝 Notes for this README
+This repository appears to be a profile README (repository named the same as the username). To customize:
+1. Edit this README.md directly from GitHub or clone the repo and update locally.
+2. Replace placeholder project links, contact info, and skill list with your real data.
+3. Add images, GIFs, or additional sections (blog posts, talks, certifications) as desired.
+
+---
+
+Thank you for visiting — looking forward to connecting and building great things together! ⚡
