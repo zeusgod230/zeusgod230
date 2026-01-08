@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/wsksvw.jpg" width="100%" style="border-radius: 10px;">
+  <img src="https://files.catbox.moe/wsksvw.jpg" width="60%" style="border-radius: 10px;">
 </p>
 
 # Hi there, I'm Anshraj Gupta 👋 
