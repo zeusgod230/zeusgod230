@@ -33,19 +33,6 @@ I’m a developer based in India, currently navigating my first year of college 
 
 ---
 
-### 📊 Engineering Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeusgod230&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeusgod230&layout=compact&theme=tokyonight&hide_border=true" height="175" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeusgod230&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" width="100%" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 <p align="left">
   <a href="https://github.com/zeusgod230"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
