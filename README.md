@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/wsksvw.jpg" width="70%" height="70%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
+  <img src="https://files.catbox.moe/wsksvw.jpg" width="50%" height="50%" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);">
 </p>
 
 <p align="center">
