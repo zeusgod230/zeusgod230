@@ -32,7 +32,6 @@ I’m a developer based in India, currently navigating my first year of college 
 | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
 
 ---
-
 ### 🤝 Let's Connect
 <p align="left">
   <a href="https://github.com/zeusgod230"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
