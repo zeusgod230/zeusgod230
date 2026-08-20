@@ -6,19 +6,19 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Machine+Learning+Explorer;C%2B%2B+%26+Python+Enthusiast;Building+the+Future+of+Web&font=Fira+Code&center=true&width=500&height=45&color=58a6ff&vCenter=true&pause=1000&size=24" />
 </p>
 
-# 👋 I'm Anshraj Gupta
-### 🚀 1st Year CS Student | Full-Stack & AI Explorer
+#  I'm Anshraj Gupta
+###  1st Year CS Student | Full-Stack & AI Explorer
 
 I’m a developer based in India, currently navigating my first year of college by breaking things and putting them back together with code. I’m building a bridge between **Web Development** and **Machine Learning**.
 
 ---
 
-### 🧠 Knowledge Graph
+###  Knowledge Graph
 
-- 🔭 **Current Project:** Working on a personalized hosting platform/automation tools.
-- 🌱 **Learning Path:** Mastering **Machine Learning** algorithms and **Java** backend.
-- ⚡ **Superpowers:** Writing efficient **C++**, logic-heavy **JS**, and data-driven **Python**.
-- 📫 **Reach Me:** [your.email@example.com](mailto:your.email@example.com)
+-  **Current Project:** Working on a personalized hosting platform/automation tools.
+-  **Learning Path:** Mastering **Machine Learning** algorithms and **Java** backend.
+-  **Superpowers:** Writing efficient **C++**, logic-heavy **JS**, and data-driven **Python**.
+-  **Reach Me:** [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
@@ -32,7 +32,7 @@ I’m a developer based in India, currently navigating my first year of college 
 | ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) | ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) |
 
 ---
-### 🤝 Let's Connect
+###  Let's Connect
 <p align="left">
   <a href="https://github.com/zeusgod230"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
